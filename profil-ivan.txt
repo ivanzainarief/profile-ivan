@@ -1,2 +1,3 @@
 Portifolio
 - Foto, nama, ttl, pengalaman organisasi, skill yang ditempuh saat ini
+- tambah hobi
