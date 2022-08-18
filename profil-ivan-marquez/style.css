@@ -1,0 +1,36 @@
+.index_navigation li {
+  overflow: hidden;
+  text-align: center;
+  float: center;
+  padding-right: 20px;
+}
+
+.index_navigation a {
+  font-family: arial;
+  color: black;
+  text-align: center;
+  padding: 14 px 16 px;
+  text-decoration: none;
+}
+
+.center {
+  width: 50%;
+  text-align: center;
+  display: block;
+  background-color: transparent;
+  margin-left: auto;
+  border: 1px solid transparent;
+  margin-right: auto;
+  margin-bottom: 1px;
+  float: center;
+}
+<div class="background_logo">
+  <img src="img/logo_size.jpg" alt="Background Logo" class="center">
+  <nav class="index_navigation">
+    <ul>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </nav>
+</div>
